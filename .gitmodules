@@ -1,0 +1,28 @@
+[submodule "c88-affiliate"]
+	path = c88-affiliate
+	url = http://gitlab.hygo.cc/c88/backend/c88-affiliate.git
+[submodule "c88-common"]
+	path = c88-common
+	url = http://gitlab.hygo.cc/c88/backend/c88-common.git
+[submodule "c88-auth"]
+	path = c88-auth
+	url = http://gitlab.hygo.cc/c88/backend/c88-auth.git
+[submodule "c88-admin"]
+	path = c88-admin
+	url = http://gitlab.hygo.cc/c88/backend/c88-admin.git
+[submodule "c88-gateway"]
+	path = c88-gateway
+	url = http://gitlab.hygo.cc/c88/backend/c88-gateway.git
+[submodule "c88-game-adapter"]
+	path = c88-game-adapter
+	url = http://gitlab.hygo.cc/c88/backend/c88-game-adapter.git
+	branch = master
+[submodule "C88-Member"]
+	path = C88-Member
+	url = http://gitlab.hygo.cc/c88/backend/C88-Member.git
+[submodule "c88-payment"]
+	path = c88-payment
+	url = https://gitlab.hygo.cc/c88/backend/c88-payment
+[submodule "c88-risk"]
+	path = c88-risk
+	url = https://gitlab.hygo.cc/c88/backend/c88-risk
